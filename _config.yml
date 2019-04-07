@@ -23,7 +23,7 @@ email_address                             :
 facebook_username                         :                                           
 instagram_username                        :
 twitter_username                          :
-github_username                           :
+github_username                           : muffin-coders
 youtube_username                          :
 
 
@@ -31,21 +31,21 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-#  - title                                 : Algorithmus
-#    description                           : Ein Algorithmus findet deinen Job
-#    fontawesome_icon_name                 : magic
-#
-#  - title                                 : iPhone Device Preview
-#    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-#    fontawesome_icon_name                 : mobile
+  - title                                 : Beantworte ein paar Fragen
+    description                           : Ein Algorithmus schlägt dir deinen passenden Job vor
+    fontawesome_icon_name                 : magic
 
-#  - title                                 : Video Support
-#    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-#    fontawesome_icon_name                 : play-circle
-#
-#  - title                                 : Automatic Icon and Metadata
-#    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-#    fontawesome_icon_name                 : sync
+  - title                                 : iPhone & iPad und Android Support
+    description                           : Ganz leicht auf deinem Smartphone swipen
+    fontawesome_icon_name                 : mobile
+
+  - title                                 : Schnell und unkompliziert
+    description                           : Innerhalb von schon 1 Minute, wird dir Jobinator einen Job vorschlagen
+    fontawesome_icon_name                 : clock
+
+  - title                                 : 100% gratis
+    description                           : Die ganze App ist konstenlos bedienbar
+    fontawesome_icon_name                 : piggy-bank
 #
 #  - title                                 : Easy to Tweak
 #    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
@@ -62,14 +62,14 @@ features                                  :
 #  - title                                 : Social Links
 #    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
 #    fontawesome_icon_name                 : link
-
-  - title                                 : #FontAwesome Support
-    description                           : #Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+#
+#  - title                                 : #FontAwesome Support
+#    description                           : #Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+#    fontawesome_icon_name                 : #info-circle
+#
+#  - title                                 : # New Feature Title
+#    description                           : # New Feature Description
+#    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
