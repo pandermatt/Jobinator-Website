@@ -35,16 +35,16 @@ features                                  :
     description                           : Ein Algorithmus schlägt dir deinen passenden Job vor
     fontawesome_icon_name                 : magic
 
-  - title                                 : iPhone & iPad und Android Support
+  - title                                 : iPhone, iPad und Android Support
     description                           : Ganz leicht auf deinem Smartphone swipen
     fontawesome_icon_name                 : mobile
 
   - title                                 : Schnell und unkompliziert
-    description                           : Innerhalb von schon 1 Minute, wird dir Jobinator einen Job vorschlagen
+    description                           : Jobinator braucht keine Minute, um dir einen passenden Job vorzuschlagen
     fontawesome_icon_name                 : clock
 
   - title                                 : 100% gratis
-    description                           : Die ganze App ist konstenlos bedienbar
+    description                           : Die ganze App ist kostenlos bedienbar
     fontawesome_icon_name                 : piggy-bank
 #
 #  - title                                 : Easy to Tweak
